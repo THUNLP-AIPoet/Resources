@@ -1,6 +1,6 @@
 ## 文本大数据选编的300首最受欢迎的唐代诗词
 
-The Most Popular Three Hundred Tang Poems (TangPoemTop300) based on Big Text Corpus 
+The Most Popular Three Hundred Tang Poems (TangPoemTop300) Recommended by Big Text Corpus
 
 ### 一、介绍
 
